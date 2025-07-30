@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm passionate about backend development and build
 - 🤔 I’m looking for help with: **Advanced Docker & Async Python Patterns**
 - 💬 Ask me about: **APIs, WebSockets, Backend Architecture, Git, SQL**
 - 📫 How to reach me: [lovelygupta016@gmail.com](mailto:lovelygupta016@gmail.com)
-- 😄 Pronouns: **He/Him**
+- 😄 Pronouns: **She/Her**
 - ⚡ Fun fact: I debug better with chai ☕
 
 ---
@@ -52,12 +52,6 @@ Welcome to my GitHub profile! I'm passionate about backend development and build
 #### 🧠 Others
 ![WebSocket](https://img.shields.io/badge/WebSocket-000000?style=for-the-badge)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge)
-
----
-
-### 📊 GitHub Stats
-
-![Lovely's GitHub stats](https://github-readme-stats.vercel.app/api?username=lovelyfsl&show_icons=true&theme=radical)
 
 ---
 
